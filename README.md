@@ -13,3 +13,6 @@ https://docs.google.com/spreadsheets/d/1uqkDt1q8h-tW2-8cLU6_jyIKl7-ioe575fqTvas7
 Файл с тестовым прогоном для модулей "Корзина" и "Оплата" лежит в корне репозитория под названием G101-Test+run+2025_09_30.pdf
 
 Файл с отчетами о дефекте для модулей "Корзина" и "Оплата" лежит в корне репозитория под названием Issues (2)
+
+Файл с видео отчетом
+https://drive.google.com/file/d/1I_qiQuExAAxIHcs2-jnHH8Uj5pdBhDf0/view?usp=sharing
